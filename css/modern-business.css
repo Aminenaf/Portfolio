@@ -1,0 +1,176 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.trblue {
+  background-color: rgba(122, 144, 184, 0.3);
+}
+
+.done {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: justify;
+  justify-content: flex-start;
+}
+
+.skills {
+  width: 15%;
+  margin: 20px 50px;
+  text-align: center;
+}
+
+.logo {
+  width: auto;
+  height: 60%;
+  margin-bottom: 15%;
+}
+
+.logopng {
+  width: 100%;
+  height: 60%;
+  margin-bottom: 16%
+}
+
+.lang {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: justify;
+  justify-content: flex-start;
+  margin-bottom: 15%;
+}
+
+.yo {
+  width: 23%;
+  margin: 20px 55px;
+  text-align: center;
+}
+
+.drapeau {
+  width: 100%;
+  height: 50%;
+  border-style: solid; 
+  margin-bottom: 16%;
+}
+
+#fr {
+  border-style: solid;
+  border-color: green;
+  background-color: green;
+  font-size: 125%;
+  color: white;
+  margin: 20px;
+}
+
+#en {
+  border-style: solid;
+  border-color: green;
+  background-color: green;
+  font-size: 125%;
+  color: white;
+  margin: 20px;
+}
+
+#nl {
+  border-style: solid;
+  border-color: orangered;
+  background-color: orangered;
+  font-size: 125%;
+  color: white;
+  margin: 20px;
+}
+
+#html {
+  background-color: #dc5034;
+  font-size: 150%;
+}
+
+#css {
+  font-size: 150%;
+}
+
+#js {
+  background-color: #ffcb00;
+  font-size: 150%;
+  color: black;
+}
+
+#csharp {
+  background-color: indigo;
+  font-size: 150%;
+}
+
+#apple {
+  font-size: 150%;
+  background-color: green;
+}
+
+#windows {
+  font-size: 150%;
+  background-color: green;
+}
+
+#php {
+  font-size: 150%;
+}
+
+#jquery {
+  font-size: 150%;
+  background-color: green;
+}
+
+#drupal {
+  font-size: 150%;
+}
+
+#cisco {
+  font-size: 150%;
+}
+
+#sqlserver {
+  font-size: 150%;
+  background-color: red;
+}
+
+#mysql {
+  font-size: 150%;
+  background-color: peru;
+}
+
+#pp {
+  -webkit-filter: sepia(0);
+  filter: sepia(0);
+  opacity: 0.8;
+}
+
+#pp:hover {
+  -webkit-filter: sepia(100%);
+	filter: sepia(100%);
+	-webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
