@@ -6,12 +6,6 @@
 
 Voici mon e-portfolio créer dans le cadre de mon Bachelier à l'Ephec de Louvain-la-neuve.
 
-## Preview
-
-[![Modern Business Preview](https://startbootstrap.com/assets/img/templates/modern-business.jpg)](https://blackrockdigital.github.io/startbootstrap-modern-business/)
-
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-modern-business/)**
-
 ## About
 
 Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
